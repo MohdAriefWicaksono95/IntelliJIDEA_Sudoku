@@ -1,0 +1,4 @@
+#Thu Sep 17 10:37:31 WIB 2020
+base.0=C\:\\Users\\Mohammad Arief Wicaksono\\IntelliJIDEAProjects\\IntelliJIDEA_Sudoku\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

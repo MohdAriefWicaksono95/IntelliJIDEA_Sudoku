@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.infrolog.elu.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:minSdkVersion="1" />
+7-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:8:1-23:19
+10        android:debuggable="true"
+11        android:icon="@drawable/ic_launcher"
+11-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:9:9-45
+12        android:label="@string/app_name"
+12-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:10:9-41
+13        android:testOnly="true" >
+14        <activity
+14-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:11:9-19:20
+15            android:name="com.infrolog.elu.android.Sudoku"
+15-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:12:13-35
+16            android:label="@string/app_name" >
+16-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:13:13-45
+17            <intent-filter>
+17-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:14:13-18:29
+18                <action android:name="android.intent.action.MAIN" />
+18-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:15:17-69
+18-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:15:25-66
+19
+20                <category android:name="android.intent.category.LAUNCHER" />
+20-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:17:17-77
+20-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:17:27-74
+21            </intent-filter>
+22        </activity>
+23        <activity
+23-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:20:5-118
+24            android:name="com.infrolog.elu.android.About"
+24-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:20:51-72
+25            android:label="@string/about_title"
+25-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:20:15-50
+26            android:theme="@android:style/Theme.Dialog" />
+26-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:20:73-116
+27        <activity
+27-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:21:5-77
+28            android:name="com.infrolog.elu.android.Prefs"
+28-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:21:54-75
+29            android:label="@string/settings_title" />
+29-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:21:15-53
+30        <activity
+30-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:22:5-72
+31            android:name="com.infrolog.elu.android.Game"
+31-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:22:50-70
+32            android:label="@string/game_title" />
+32-->C:\Users\Mohammad Arief Wicaksono\IntelliJIDEAProjects\IntelliJIDEA_Sudoku\app\src\main\AndroidManifest.xml:22:15-49
+33    </application>
+34
+35</manifest>
